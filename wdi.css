@@ -6,7 +6,25 @@ body
   font-family: 'Titillium Web', sans-serif;
   font-size: 15px;
   color: #666666;
-  padding: 15px;
+}
+
+header
+{
+  background-color: #ffffff;
+  border-bottom: 1px dashed #cccccc;
+  margin-bottom: 25px;
+  padding: 20px;
+}
+
+section
+{
+  padding-left: 20px;
+}
+
+header img
+{
+  width: 75px;
+  height: 75px;
 }
 
 h1, h2, h3
