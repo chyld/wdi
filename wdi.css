@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+body
+{
+  background-color: #eeeeee;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  color: #666666;
+  padding: 15px;
+}
+
+h1, h2, h3
+{
+  margin-top: 5px;
+}
+
+h1
+{
+  font-size: 21px;
+  color: #000000;
+  margin-bottom: 15px;
+}
+
+h2
+{
+  font-size: 19px;
+  font-style: italic;
+  color: #222222;
+  margin-bottom: 10px;
+}
+
+h3
+{
+  font-size: 17px;
+  color: #444444;
+  margin-bottom: 5px;
+}
+
+ul li:before
+{
+	content: "\00BB \0020";
+}
+
+li
+{
+ padding: 3px; 
+}
+
+a
+{
+  color: #990099;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #009900;
+  text-decoration: underline;
+}
